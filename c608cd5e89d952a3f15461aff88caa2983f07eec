@@ -16,6 +16,24 @@
       "message": "I don\u0027t expect this to fix log spam, it\u0027s still optional.  I\u0027m good with the revert though.",
       "revId": "c608cd5e89d952a3f15461aff88caa2983f07eec",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "802d2a3d_133e8b1d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000737
+      },
+      "writtenOn": "2024-02-18T15:18:56Z",
+      "side": 1,
+      "message": "Wouldn\u0027t it be better to remove all IOP blobs from qcom/common then?",
+      "parentUuid": "f9d09cb3_5dc71e0d",
+      "revId": "c608cd5e89d952a3f15461aff88caa2983f07eec",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
