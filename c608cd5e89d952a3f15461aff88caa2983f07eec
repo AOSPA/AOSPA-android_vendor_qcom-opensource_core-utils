@@ -86,6 +86,23 @@
       "message": "also that libc error does not happen here. I don\u0027t see anything like that in my logs. I\u0027d suggest you to take a look at your tree or your perfconfigs to see if anything is trying to start it.",
       "revId": "c608cd5e89d952a3f15461aff88caa2983f07eec",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5ba4dbdd_da63efe8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000737
+      },
+      "writtenOn": "2024-02-19T13:06:16Z",
+      "side": 1,
+      "message": "only use TARGET_USE_AIDL_QTI_BT_AUDIO",
+      "revId": "c608cd5e89d952a3f15461aff88caa2983f07eec",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
