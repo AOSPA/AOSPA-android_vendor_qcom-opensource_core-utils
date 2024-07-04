@@ -16,6 +16,24 @@
       "message": "where is v5 coming from? i only see v1 in pineapple bsp",
       "revId": "c6f8d122f3facadf2aff32b1e0d0c3516d4988eb",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0875781e_a9fecc88",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000237
+      },
+      "writtenOn": "2024-07-04T01:52:00Z",
+      "side": 1,
+      "message": "idk I had build error",
+      "parentUuid": "814525cf_eb8afe23",
+      "revId": "c6f8d122f3facadf2aff32b1e0d0c3516d4988eb",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
